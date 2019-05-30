@@ -4,7 +4,7 @@
 
 	This folder contains assignments completed during my time at the University of Guelph. The first is an assignment written in Cobol and the second is a math based encryption assignment with some python scripting.
 
-##Hobbies
+## Hobbies
 	This folder contains examples of my CAD/3D printing work in addition some of the photography work I've done. All of the cad files included were moddelled by myself. The first file is a foregrip for an airsoft marker. The next a corner joint for my boss, he works on play sets and this allows him to build and deconstruct set pieces quickly. The next is a Go Pro cover I designed that you can finish with an extra piece of plexiglass, it is a friction fit. The final is a snow blower key I designed for my dad who lost his. All were printed at .15-.2mm layer height on a Creality CR-10.
 
 ## Papers
